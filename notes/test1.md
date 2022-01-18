@@ -42,3 +42,5 @@ Interesting... So I assume if I pick the other template type then this won't be 
 | Cell | Cell | Cell |
 | Cell | Cell | Cell |
 | Cell | Cell | Cell |
+
+[This is a link]() \[\[\]\] 
