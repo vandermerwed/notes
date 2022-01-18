@@ -120,3 +120,16 @@ fields:
     max: 
     labelField: 
   label: RepeatableFieldGroup
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types:
+  - fields-template
+  config:
+    min: 
+    max: 
+- name: includetemplate
+  type: include
+  config: {}
+  template: fields-template
+  label: IncludeTemplate
