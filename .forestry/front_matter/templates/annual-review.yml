@@ -133,3 +133,5 @@ fields:
   config: {}
   template: fields-template
   label: IncludeTemplate
+pages:
+- notes/test1.md
